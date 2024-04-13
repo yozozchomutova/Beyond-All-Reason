@@ -473,6 +473,7 @@ function ArmyHST:Init()
 	self._shield_ = {
 		armgate = true ,
 		corgate = true ,
+		leggate = true ,
 		}
 
 	self._juno_ = {

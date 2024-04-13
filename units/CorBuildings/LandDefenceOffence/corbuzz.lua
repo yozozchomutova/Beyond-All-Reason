@@ -123,7 +123,7 @@ return {
 				craterboost = 0.1,
 				cratermult = 0.1,
 				edgeeffectiveness = 0.95,
-				energypershot = 12000,
+				energypershot = 1,
 				explosiongenerator = "custom:genericshellexplosion-huge",
 				gravityaffected = "true",
 				impulseboost = 0.5,

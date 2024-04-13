@@ -489,6 +489,7 @@ local armorDefs = {
 	shields = {
 		"armgate",
 		"corgate",
+		"leggate",
 		--"armfgate", Not currently used
 		--"corfgate", Not currently used
 	},
